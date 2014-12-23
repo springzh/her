@@ -13,17 +13,17 @@
 
 ---
 
-## 安装
+## Installation
 
-在你的 Gemfile 中添加：
+In your Gemfile, add:
 
 ```ruby
 gem "her"
 ```
 
-就是这样！
+That’s it!
 
-## 用法
+## Usage
 
 _For a complete reference of all the methods you can use, check out [the documentation](http://rdoc.info/github/remiprev/her)._
 
